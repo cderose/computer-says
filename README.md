@@ -1,2 +1,1 @@
-# computer-says
-Simon Says game built for JavaScript practice
+Exercise to practice JavaScript: https://cderose.github.io/computer-says/
