@@ -99,7 +99,7 @@ function checkAnswer(currentLevel){
   } else {
     playSound("wrong");
     $("body").addClass("game-over");
-    $("h1").text("Game Over! You Reached Level " + level + " Press Any Key to Restart.");
+    $("h1").text("Game Over! You Reached Level " + level + ". Press Any Key to Restart.");
     setTimeout(function(){
       // $("#" + color).removeClass("pressed");
       $("body").removeClass("game-over");
